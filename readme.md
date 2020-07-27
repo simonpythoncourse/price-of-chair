@@ -26,7 +26,7 @@ Technology stack: MongoDB, Python (Flask & Jinja2), HTML/CSS/Bootstrap, Mailgun.
 5. Run the Flask server by executing `venv/bin/python price-of-chair/src/run.py`.
 6. Whenever you want to check prices of items (**caution: can take a long time if you have a lot of items!**), run `venv/bin/python price-of-char/src/alert_updater.py`.
 
-![Home Screen](readme-files/home.png)
+![Home Screen](readme-
 
 ![Sign up Screen](readme-files/signup.png)
 
@@ -36,4 +36,6 @@ Technology stack: MongoDB, Python (Flask & Jinja2), HTML/CSS/Bootstrap, Mailgun.
 
 ![Stores Screen](readme-files/stores.png)
 
-![Edit Store Screen](readme-files/edit_store.png)
+![Edit Store Screen](readme-kiles/edit_store.png)
+refwfgretertwt3t
+\fea
