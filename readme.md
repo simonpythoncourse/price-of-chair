@@ -37,5 +37,5 @@ Technology stack: MongoDB, Python (Flask & Jinja2), HTML/CSS/Bootstrap, Mailgun.
 ![Stores Screen](readme-files/stores.png)
 
 ![Edit Store Screen](readme-kiles/edit_store.png)
-refwfgretertwt3t
+refwfgretertwt3tnk
 \fea
